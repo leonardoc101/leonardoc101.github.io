@@ -54,7 +54,7 @@ body {
   color: white;
 }
 
-.profile-pic {
+/*.profile-pic {
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -62,8 +62,9 @@ body {
   object-fit: cover;
   margin-bottom: 1rem;
 }
+*/
 
-.hero h1 {
+.hero h1 {z
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
 }
